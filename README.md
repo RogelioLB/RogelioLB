@@ -1,7 +1,7 @@
 <div id="header">
   <img src="https://res.cloudinary.com/dzjidgpco/image/upload/v1680325469/banner_mj7lwx.jpg" alt="RogelioLB Banner" style="width:100%" />
   
-  <div id="badges" style="display:flex; gap:10px;justify-content:space-around; margin:10px 0">
+  <div id="badges" style="display:flex; gap:10px;justify-content:space-around; margin:10px 0" align="center">
     <a href="https://github.com/RogelioLB/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="RogelioLB Github">
     </a>
@@ -23,7 +23,7 @@ When I was 13 years old, I was interested in web development, at that moment I h
 What characterizes me the most is my interest in continuing to learn, and I do not limit myself to being in my comfort zone.
 
 <h2 style="text-align:center;margin:20px 0;border-bottom:1px solid #3498db;font-weight:700;">📚Knowledge</h2>
-<div style="display:flex; align-items:center; justify-content:center;gap:10px;flex-wrap:wrap">
+<div style="display:flex; align-items:center; justify-content:center;gap:10px;flex-wrap:wrap" align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -37,6 +37,7 @@ What characterizes me the most is my interest in continuing to learn, and I do n
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
 <h2 style="text-align:center;margin:20px 0;border-bottom:1px solid #3498db;font-weight:700;">🏆 Achievements</h2>
@@ -56,6 +57,6 @@ What characterizes me the most is my interest in continuing to learn, and I do n
 <h2 style="text-align:center;margin:20px 0;border-bottom:1px solid #3498db;font-weight:700;
 ">📊 Stats</h2> 
 <div style="margin:20px 0;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogelioLB&theme=radical" width="100%"/>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RogelioLB&theme=radical" style="width:100%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogelioLB&theme=radical"/>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RogelioLB&theme=radical" />
 </div>
